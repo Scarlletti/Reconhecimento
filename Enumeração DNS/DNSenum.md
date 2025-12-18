@@ -22,6 +22,8 @@ dnsenum testphp.vulnweb.com
 
 O resultado retornou apenas o endereço IP associado ao domínio principal, não apresentando nenhum subdomínio público.
 
+![Resultado do DNSenum](images/teste1.png)
+
 Diante disso, foi adotada uma abordagem mais abrangente, utilizando uma wordlist nativa do Kali Linux, denominada **dnsmap.txt**, com o intuito de realizar uma enumeração baseada em força bruta.
 
 O comando utilizado foi:
