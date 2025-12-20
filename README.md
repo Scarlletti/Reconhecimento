@@ -23,7 +23,10 @@ Os write-ups estão organizados por técnica, cada uma em sua respectiva pasta:
 Reconhecimento/
 ├── Enumeração DNS/
 │   └── DNSenum.md
-    └── images
+|    └── images
+├── OSINT
+|   └── theHarvester.md
+|    └── images
 ```
 
 Cada pasta contém:
