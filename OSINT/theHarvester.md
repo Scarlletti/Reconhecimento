@@ -8,7 +8,7 @@
 
 ## Objetivo
 
-O objetivo desta atividade foi realizar a **coleta de informações públicas (OSINT)** relacionadas ao domínio **testphp.vulnweb.com**, com foco na identificação de e-mails, hosts, URLs, ASN e endereços IP que pudessem contribuir para a fase inicial de reconhecimento.
+O objetivo desta atividade foi realizar a **coleta de informações públicas (OSINT)** relacionadas ao domínio **testphp.vulnweb.com**, com foco na identificação de e-mails que pudessem contribuir para a fase inicial de reconhecimento.
 
 ---
 
@@ -27,6 +27,7 @@ Neste comando:
 * `-d` define o domínio alvo
 * `-b all` instrui a ferramenta a consultar todas as fontes disponíveis
 
+![Teste do TheHarvester](images/teste.png)
 ---
 
 ## Resultados
@@ -40,6 +41,8 @@ A execução da ferramenta não resultou na identificação de endereços de e-m
 
 Mesmo sem a coleta de e-mails, os dados obtidos contribuem para o mapeamento da infraestrutura do alvo e podem auxiliar em etapas posteriores do reconhecimento.
 
+![Resultado do TheHarvester](images/resultado1.png)
+![Resultado do TheHarvester](images/resultado2.png)
 ---
 
 ## Análise
